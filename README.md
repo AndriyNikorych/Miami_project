@@ -13,7 +13,8 @@ Technologies and approaches used:
 
 _______________________________________________________________________________
 
-[DEMO LINK](https://AndriyNikorych.github.io/Miami_project/) - link to see demo 
+[DEMO LINK](https://AndriyNikorych.github.io/Miami_project/) - link to see demo
+
 [Design](https://AndriyNikorych.github.io/Miami_project/) of the page.
 
 Instructions how to install:
