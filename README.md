@@ -1,4 +1,5 @@
 # Landing MIAMI
+_______________________________________________________________________________
 
 This is demonstration of visualization of the layout design
 
@@ -10,9 +11,10 @@ Technologies and approaches used:
 - SASS
 - Grid and Flexbox
 
+_______________________________________________________________________________
 
-- [DEMO LINK](https://AndriyNikorych.github.io/Miami_project/) - link to see demo 
-- [Design](https://AndriyNikorych.github.io/Miami_project/) of the page.
+[DEMO LINK](https://AndriyNikorych.github.io/Miami_project/) - link to see demo 
+[Design](https://AndriyNikorych.github.io/Miami_project/) of the page.
 
 Instructions how to install:
 
